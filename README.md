@@ -15,7 +15,7 @@
 
 <br>
 
-|  | 文章連結 |
+|  | 筆記連結 |
 |--|--|
 | 1 | [Git入門(1)_創建分支及記錄修改](https://gist.github.com/tzyi/067ffd89af5850a28800b9a157fc2508) |
 | 2 | [Git入門(2)_回到從前](https://gist.github.com/tzyi/e7b05b7ee376ae3c84ff7caaba4e1375) |
