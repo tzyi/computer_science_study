@@ -1,7 +1,7 @@
 # data_science_study
 數據科學學習筆記
 
-- 下列文章也有分享在Medium中
+- 下列文章也有分享在Medium中:[Pizza's Medium](https://medium.com/pizzas)
 - 這些來自閱讀書本、教學影片及教學網站後的讀書心得以及重點筆記
 
 
@@ -9,12 +9,11 @@
 <br><br><br><br>
 ## 1. GIT
 
-推薦:
+推薦閱讀:
 1. [Y周莫烦-Git教學](https://www.youtube.com/watch?v=kQSzft2Jj8Y&list=PLXO45tsB95cKysjmSNln65YoUt9lwEl7-)
 2. [為你自己學 Git](https://gitbook.tw/)
 
-<br><br><br>
-
+<br>
 
 |  | 文章連結 |
 |--|--|
