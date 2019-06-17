@@ -3,7 +3,7 @@
 
 - 下列文章也有分享在Medium中:[Pizza's Medium](https://medium.com/pizzas)
 - 這些來自閱讀書本、教學影片及教學網站後的讀書心得以及重點筆記
-
+- 會繼續不斷更新內容
 
 
 <br><br><br><br>
@@ -28,9 +28,9 @@
 
 ## 統計
 
-推薦閱讀:
+推薦閱讀:<br>
 1.[真希望老師這樣教統計](https://www.books.com.tw/products/0010580921)
 
 |  | 筆記連結 |
 |--|--|
-| 1 | [真希望老師這樣教統計(1)_比輸贏看那些數字](https://gist.github.com/tzyi/521cfc2411ab653c8beb613e2ff72733)<br>平均數、中位數<br>次數分配表、直方圖<br>變異數、標準差<br>變異係數<br>標準分數與離均差分數<br>帕累托分析法(ABC分析法) |
+| 1 | [真希望老師這樣教統計(1)_比輸贏看那些數字](https://gist.github.com/tzyi/521cfc2411ab653c8beb613e2ff72733)<br><br>平均數、中位數<br>次數分配表、直方圖<br>變異數、標準差<br>變異係數<br>標準分數與離均差分數<br>帕累托分析法(ABC分析法) |
