@@ -22,3 +22,15 @@
 | 3 | [Git入門(3)_分支及合併衝突](https://gist.github.com/tzyi/9e1c8966a603f475d4650e5ba6f10bbf) |
 | 4 | [Git 入門 (4)_臨時修改及Github](https://gist.github.com/tzyi/f807c5fcf2f2c5cfabe2eba23dd940fb) |
 | 5 | [Git指令整理](https://gist.github.com/tzyi/042b2cfe0aa7dca78317acebeda69c81) |
+
+
+
+
+## 統計
+
+推薦閱讀:
+1.[真希望老師這樣教統計](https://www.books.com.tw/products/0010580921)
+
+|  | 筆記連結 |
+|--|--|
+| 1 | [真希望老師這樣教統計(1)_比輸贏看那些數字](https://gist.github.com/tzyi/521cfc2411ab653c8beb613e2ff72733) |
