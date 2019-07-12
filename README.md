@@ -1,5 +1,5 @@
-# data_science_study
-數據科學學習筆記
+# computer_science_study
+電腦科學學習筆記
 
 - 下列文章也有分享在Medium中:[Pizza's Medium](https://medium.com/pizzas)
 - 這些來自閱讀書本、教學影片及教學網站後的讀書心得以及重點筆記
